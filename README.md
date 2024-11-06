@@ -85,9 +85,6 @@ Future improvements include:
 2. Install the necessary dependencies.
 3. Run the Jupyter Notebook (`NYC_Taxi_Fare_Prediction.ipynb`) to train and evaluate the model.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 This project is a collaboration between team members:
 - Navya Kiran V B (SUID: 291769531)
